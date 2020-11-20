@@ -1,0 +1,1 @@
+# konspiratori.sk
