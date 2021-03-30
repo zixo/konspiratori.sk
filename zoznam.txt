@@ -38,6 +38,7 @@ novarepublika.cz
 rukojmi.cz
 rozhladna.org
 yournewswire.com
+infowars.cz
 ezopress.sk
 prekladyodlesa.sk
 pokec24.cz
@@ -55,7 +56,6 @@ energieupramene.blogspot.sk
 planetajednoduchost.sk
 informace.top
 petrabostlova.wordpress.com
-magazin1.sk
 ac24.cz
 alternativnimagazin.cz
 isstras.eu
@@ -83,6 +83,7 @@ proevropu.com
 cestyksobe.cz
 ceskoaktualne.cz
 pravyprostor.cz
+podtatransky-kurier.sk
 sk.news-front.info
 kulturblog.sk
 karolinaloskotova.blog.cz
@@ -97,9 +98,14 @@ bajecnezeny.sk
 casopis-sifra.cz
 svetkolemnas.info
 vipnoviny.cz
+poockovani.cz
+inenoviny.sk
+kanal22.cz
 ceskavec.com
 freepub.cz
 dt24.cz
+slovanskenoviny.sk
+rizikaockovania.sk
 desitka.org
 radyzdravie.sk
 skrytapravda.cz
@@ -139,9 +145,13 @@ mocvedomi.cz
 datel.sk
 breitbart.com
 drsne.sk
+alatyr.sk
 slovenskeslovo.sk
 domacaliecba.sk
 themindunleashed.com
+magazinslovensko.online
+hlavnydennik.sk
+udalostiextra.cz
 dennik-dnes.sk
 reformy.cz
 aktuality24.sk
@@ -154,6 +164,8 @@ arindrexler.com
 lucasperny.blog.pravda.sk
 ceskozdrave.cz
 eportal.cz
+magazin1.sk
+christianitas.sk
 elektrosmog.voxo.eu
 politickemimovladky.sk
 dolezite.sk
@@ -162,8 +174,8 @@ vylectese.cz
 bajecnylekar.sk
 jenona.tiscali.cz
 zpravodaj24.eu
-netky.sk
 woman.tiscali.cz
+sknews.sk
 meapatria.sk
 kupredudominulosti.cz
 ipribeh.cz
@@ -172,6 +184,7 @@ ozonyx.cz
 weeks.cz
 prvnizpravy.cz
 davdva.sk
+somzena.sk
 mimoriadnespravy.sk
 resso.sk
 vitalitis.cz
@@ -191,7 +204,6 @@ presstv.sk
 zlapanda.cz
 eurodenik.cz
 onlineslecna.sk
-hlavnydennik.sk
 bajecnyzivot.sk
 dennikpolitika.sk
 prosvet.cz
